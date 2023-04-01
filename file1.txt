@@ -4,14 +4,3 @@ dknadsndan
 dsaasdasdsadsad
 jsdhashdhdshdsd
 This is my second commit to master branch without sibling branches
-
-Now I have switched to branch Anirban
-aDSDSDSD
-SDSADSADSADwewewewr
-rwrwrwrrwwrwrrwrwrr
-ewwwrrwrwrwrwr
-Now I am going to add and commit on anirban
-asssdddsdd
-This is adrijas changes being  made 
-I am on adrija branch Now
-first commit on adrija
