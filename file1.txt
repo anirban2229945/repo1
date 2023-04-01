@@ -1,2 +1,6 @@
+==================EXERCISE FOR MERGE CONFLICT=====================================================          
+
 This is my first file creation ion the master branch.
 Now I am going to add and commit
+on the master branch here I am writing sometihing more 
+Now I am going to add and commit on the master branch
